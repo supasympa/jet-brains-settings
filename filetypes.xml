@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="env" type="JSON" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="XHTML" />
       <mapping ext="j2" type="YAML" />
