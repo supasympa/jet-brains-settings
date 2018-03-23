@@ -4,7 +4,9 @@
       <removed_mapping ext="mustache" type="Handlebars/Mustache" />
       <mapping ext="env" type="JSON" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping ext="encrypted" type="PLAIN_TEXT" />
       <mapping ext="mustache" type="XHTML" />
       <mapping ext="j2" type="YAML" />
     </extensionMap>
