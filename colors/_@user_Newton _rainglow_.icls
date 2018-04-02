@@ -4,7 +4,7 @@
     <property name="created">2018-03-27T11:32:00</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-03-28T18:30:15</property>
+    <property name="modified">2018-03-27T22:14:33</property>
     <property name="originalScheme">Newton (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1088,13 +1088,11 @@
         <option name="FOREGROUND" value="ffbf69" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="eaebff" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
     <option name="HOCON_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
