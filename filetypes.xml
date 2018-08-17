@@ -6,6 +6,7 @@
       <mapping pattern=".git-keep" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="encrypted" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="j2" type="YAML" />
     </extensionMap>
   </component>
