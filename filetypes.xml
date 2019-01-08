@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="phtml" type="HTML" />
       <mapping ext="env" type="JSON" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".git-keep" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="encrypted" type="PLAIN_TEXT" />
       <mapping ext="j2" type="YAML" />

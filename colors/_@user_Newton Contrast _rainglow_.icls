@@ -1,10 +1,10 @@
 <scheme name="_@user_Newton Contrast (rainglow)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-06T16:47:57</property>
+    <property name="created">2019-01-08T21:26:57</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-06T16:49:58</property>
+    <property name="modified">2019-01-08T21:27:31</property>
     <property name="originalScheme">Newton Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -14,12 +14,10 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="9fd356" />
