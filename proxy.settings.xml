@@ -1,6 +1,5 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="USE_HTTP_PROXY" value="true" />
     <option name="PROXY_HOST" value="ukproxy.bip.uk.fid-intl.com" />
     <option name="PROXY_PORT" value="8000" />
     <option name="PROXY_AUTHENTICATION" value="true" />
