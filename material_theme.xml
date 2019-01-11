@@ -1,12 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactSidebar" value="true" />
-    <option name="isCompactStatusBar" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="14a6a45e:164f756ef83:-7fff" />
+    <option name="userId" value="411bf1c1:1683b26541b:-8000" />
     <option name="version" value="3.1.0" />
   </component>
 </application>
