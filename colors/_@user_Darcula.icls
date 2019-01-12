@@ -1,20 +1,18 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-01-08T21:26:57</property>
+    <property name="created">2019-01-11T04:23:23</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-09T15:06:50</property>
+    <property name="ideVersion">2018.3.2.0.0</property>
+    <property name="modified">2019-01-11T04:25:57</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="fa824c" />
+    <option name="FILESTATUS_COPIED" value="659d9a" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffbf69" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="9fd356" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="fa824c" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="fa824c" />
@@ -22,6 +20,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="fa824c" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="fa824c" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
